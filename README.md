@@ -1,7 +1,7 @@
 # Bike Sharing Demand Prediction (Machine Learning in R)
 
 ## Project Overview
-Progetto di Machine Learning ed Econometria applicata volto alla previsione della domanda oraria di bike sharing. L'analisi implementa modelli basati su alberi decisionali seguendo l'approccio accademico di *An Introduction to Statistical Learning with Applications in R (ISLR2)*.
+Co- Autore di Progetto di Machine Learning ed Econometria applicata volto alla previsione della domanda oraria di bike sharing. L'analisi implementa modelli basati su alberi decisionali seguendo l'approccio accademico di *An Introduction to Statistical Learning with Applications in R (ISLR2)*. 
 
 ## Tech Stack & Packages
 * **Language:** R
